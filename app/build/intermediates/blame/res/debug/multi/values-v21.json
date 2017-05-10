@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 81,
+                        "endOffset": 134
+                    }
+                }
+            }
+        ]
+    }
+]

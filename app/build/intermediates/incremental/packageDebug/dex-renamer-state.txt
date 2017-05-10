@@ -1,0 +1,7 @@
+#Wed May 10 10:39:33 PDT 2017
+base.0=/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6a88ec14e4d50bc0a17469d45bdbcb3ff21e3641
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92eeaebf39a27ec66628a9406ab180a8f760877e/classes.dex
+base.1=/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92eeaebf39a27ec66628a9406ab180a8f760877e
+file.0=/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6a88ec14e4d50bc0a17469d45bdbcb3ff21e3641/classes.dex

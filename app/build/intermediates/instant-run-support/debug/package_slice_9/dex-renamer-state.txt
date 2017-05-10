@@ -1,0 +1,4 @@
+#Wed May 10 10:39:32 PDT 2017
+base.0=/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/giuseppedonadio/Documents/mobile_dev/android/ex_starts/ch07_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
